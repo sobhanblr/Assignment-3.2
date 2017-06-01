@@ -9,5 +9,6 @@ Expected Output Each and every row & column should be equally spaced by weight p
 
 Used android:layout_weight="0.5" to create equal space between every row & column
 
+Apart from this round corner of Edit Text(Rectangle Input Text Box) and orange highlight has been implemented
 
 README, Screenshot of output, Apk file and Source Code is uploaded in Jit
